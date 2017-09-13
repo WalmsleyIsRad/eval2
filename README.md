@@ -1,2 +1,3 @@
 # eval2
-T-Rexes are bgi
+T-Rexes are big
+Atoms are small
